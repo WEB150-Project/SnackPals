@@ -1,0 +1,2 @@
+# SnackPals
+Snack Pals website 
